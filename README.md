@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vainkovinay
-- 👀 I’m interested in coding
+- 👀 I'm interested in Business Analytics
 - 🌱 I’m currently learning AI and Data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on vinayshrimali03@gmail.com
 
 <!---
 Vainkovinay/Vainkovinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
